@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "John Wick",
+      "releaseYear": 2024,
+      "duration": 120
+    },
+    {
+      "id": 2,
+      "name": "Harry Potter",
+      "releaseYear": 2010,
+      "duration": 140
+    }
+  ]
+  
