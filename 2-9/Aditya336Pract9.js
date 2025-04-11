@@ -23,3 +23,22 @@ server.listen('3000','127.0.0.1',()=>{
 
 
 
+
+
+
+
+
+
+
+
+
+
+// input.html write anything abt you etc
+
+
+
+
+
+
+
+

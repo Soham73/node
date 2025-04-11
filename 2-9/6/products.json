@@ -1,0 +1,27 @@
+[
+    {
+      "id": 0,
+      "name": "APPLE iPhone SE",
+      "color": "Black",
+      "ROM": 128,
+      "price": 990,
+      "modelName": "iPhone SE",
+      "modelNumber": "MHGT3HN/A",
+      "size": "11.94 cm (4.7 inch) Retina HD Display",
+      "camera": "12MP Rear Camera | 7MP Front Camera",
+      "Description": "Widescreen HD LCD Retina Multi-touch IPS Display (1400:1 Contrast Ratio (Typical), True Tone Display)",
+      "productImage": "http://atlas-content-cdn.pixelsquid.com/stock-images/iphone-x-smartphone-xwVXQLD-600.jpg"
+    },
+    {
+      "id": 1,
+      "name": "APPLE iPhone XR",
+      "color": "White",
+      "ROM": 64,
+      "price": 770,
+      "modelName": "iPhone XR",
+      "modelNumber": "MH6N3HN/A",
+      "size": "15.49 cm (6.1 inch) Display",
+      "camera": "12MP Rear Camera | 7MP Front Camera"
+    }
+  ]
+  

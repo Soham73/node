@@ -17,7 +17,7 @@ const server = http.createServer((request,response)=>{
         response.end(html.replace('{{%CONTENT%}}','You are in Contact page.'))
     }else if(path.toLocaleLowerCase()==='/products'){
         response.writeHead(200)
-        fs.readFile('./Data/products.json','utf-8',(error,data)=>{
+        fs.readFile('products.json','utf-8',(error,data)=>{
             response.end(data)
         })
     }else{
