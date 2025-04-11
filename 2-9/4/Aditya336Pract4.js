@@ -2,7 +2,7 @@ const readline = require('readline')
 const fs = require('fs')
 const http = require('http')
 const html = fs.readFileSync('./Template/Index.html','utf-8')
-// Step 1 : Create a server 
+// 
 const server = http.createServer((request,response)=>{
     let path = request.url
     if(path === '/' || path.toLocaleLowerCase()==='/home'){
@@ -16,7 +16,7 @@ const server = http.createServer((request,response)=>{
     }
 })
 
-// Step 2 : Start the server 
+// 
 server.listen(3000,'127.0.0.1',() => {
     console.log('Server has started!')
 })
