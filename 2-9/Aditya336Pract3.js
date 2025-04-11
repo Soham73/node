@@ -13,5 +13,6 @@ const server = http.createServer((request,response)=>{
 // Step 2 : Start the server 
 server.listen(3000,'127.0.0.1',() => {
     console.log('Server has started!')
+    reponse.end('Hello from server')
 })
 // The first parameter is port number where the aplication is running and second parameter is host. 
